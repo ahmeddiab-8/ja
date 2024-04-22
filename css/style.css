@@ -1,0 +1,15 @@
+.next{
+    text-decoration: none;
+    background-color: rgba(44, 69, 7, 0.358);
+    margin: auto;
+display: flex;
+
+ width: fit-content;
+ padding: 10px;
+ border-radius: 5px;
+ color: red;
+
+ 
+    
+
+}
